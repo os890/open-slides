@@ -1,0 +1,11 @@
+This repository hosts source files of slides
+
+License
+-------
+
+See LICENSE.txt
+
+File Formats in this repository
+-------------------------------
+
+fodp ... OpenDocument Presentation (Flat XML) - can be opened e.g. with LibreOffice Impress
